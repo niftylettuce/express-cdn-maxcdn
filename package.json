@@ -1,0 +1,18 @@
+{
+    "name": "express-cdn-maxcdn"
+  , "description": "Add-on module for express-cdn to provide MaxCDN integration with Amazon S3."
+  , "version": "0.0.1"
+  , "author": "Nick Baugh <niftylettuce@gmail.com>"
+  , "contributors": [
+      { "name": "Nick Baugh", "email": "niftylettuce@gmail.com" }
+    ]
+  , "keywords": [ "express-cdn-maxcdn", "cdn", "maxcdn", "amazon", "s3" ]
+  , "homepage": "https://github.com/niftylettuce/express-cdn-maxcdn"
+  , "repository": {
+        "type": "git"
+      , "url": "https://github.com/niftylettuce/express-cdn-maxcdn.git"
+    }
+  , "engines": {
+      "node": ">= 0.6.0"
+    }
+}
